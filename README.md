@@ -21,7 +21,7 @@ Une application graphique pour calculs de plongée technique (GUE, Nitrox, Trimi
 
 ## 📚 Installation
 
-Cloner le repo ou télécharger le fichier `intrasub_gui.py`, puis exécutez :
+Cloner le repo ou télécharger le fichier `DiveTecCalculator.py`, puis exécutez :
 
 ```bash
 python intrasub_gui.py
@@ -38,7 +38,7 @@ pip install pyinstaller
 2. Générer le .exe :
 
 ```bash
-pyinstaller --onefile --noconsole intrasub_gui.py
+pyinstaller --onefile --noconsole DiveTecCalculator.py
 ```
 
 3. L'exécutable sera créé dans le dossier `dist/`.
