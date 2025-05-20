@@ -1,4 +1,4 @@
-# Intrasub GUI Dive Calculator
+# Dive Tec Calculator
 
 Une application graphique pour calculs de plongée technique (GUE, Nitrox, Trimix, SAC, Gas Matching) avec interface moderne en Tkinter (noir/vert fluo).
 
